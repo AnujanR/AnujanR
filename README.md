@@ -8,8 +8,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anujanR/anujanR/blob/output/snake.svg" alt="Snake animation" />
-
+<!-- <img src="https://raw.githubusercontent.com/anujanR/anujanR/blob/output/snake.svg" alt="Snake animation" />
+ -->
 ###
 
 <h4 align="left">Languages and Tools:</h4>
